@@ -1,4 +1,5 @@
 # PredictivePros_DataHack
+![Demo](logo_DataHack.gif)
 
 ## Description
 
@@ -6,7 +7,7 @@
 
 ## Features
 
-- **Expense Tracking**: Users can easily track their expenses and manage their budget effectively.
+- **Expense Tracking**: Users can easily track their expenses and manage their budgets effectively.
 
 - **Investment Recommendations**: The platform provides personalized investment recommendations based on the user's financial goals and risk appetite.
 
@@ -16,11 +17,6 @@
 
 - **Interactive PowerBI Dashboards**: PowerBI dashboards offer interactive visualizations and insights to help users analyze their financial data.
 
-
-## Screenshots
-
-Insert screenshots of the application here.
-
 ## Demo Video
 
 You can watch the demo video of **समह्GRAH** on Google Drive by clicking [here](https://drive.google.com/file/d/1qZw1N8lRQhHIkyudiHTHqj7uylW5tlKu/view?usp=sharing).
@@ -28,7 +24,3 @@ You can watch the demo video of **समह्GRAH** on Google Drive by clicking
 ## Contributing
 
 We welcome contributions from the community. If you encounter any issues or have suggestions for improvement, please create a new issue in the [issue tracker](https://github.com/your-username/PredictivePros_DataHack/issues).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
